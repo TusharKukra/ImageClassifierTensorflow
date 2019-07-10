@@ -1,5 +1,5 @@
 # TensorFlow Lite image classification Android example application
-### Credit: https://www.tensorflow.org/
+#### Credit: https://www.tensorflow.org/
 
 ## Overview
 
@@ -44,12 +44,12 @@ Clone the TensorFlow examples GitHub repository to your computer to get the demo
 application.
 
 ```
-git clone https://github.com/tensorflow/examples
+git clone https://github.com/MaverickTK/ImageClassifierTensorflow
 ```
 
-Open the TensorFlow source code in Android Studio. To do this, open Android
+Open the ImageClassifier source code in Android Studio. To do this, open Android
 Studio and select `Open an existing project`, setting the folder to
-`examples/lite/examples/image_classification/android`
+`ImageClassifierTensorflow`
 
 <img src="images/classifydemo_img1.png?raw=true" />
 
