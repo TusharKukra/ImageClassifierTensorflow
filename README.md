@@ -89,7 +89,7 @@ will be installed. This will install the app on the device.
 
 <img src="images/classifydemo_img8.png?raw=true" style="width: 80%" />
 
-To test the app, open the app called `TFL Classify` on your device. When you run
+To test the app, open the app called `Whats This` on your device. When you run
 the app the first time, the app will request permission to access the camera.
 Re-installing the app may require you to uninstall the previous installations.
 
